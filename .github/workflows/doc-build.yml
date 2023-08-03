@@ -1,0 +1,12 @@
+name: Build API Docs
+
+on:
+  workflow_dispatch:
+
+  jobs:
+    call-doc-build-workflow:
+      uses: JarrodCTaylor/build.ci/.github/workflows/doc-build.yml@v1
+      with:
+        project: JarrodCTaylor/data.fressian
+        mavenDep: org.clojure/data.fressian
+
