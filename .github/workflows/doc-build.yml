@@ -5,7 +5,7 @@ on:
 
 jobs:
   call-doc-build-workflow:
-    uses: JarrodCTaylor/build.ci/.github/workflows/doc-build.yml@v1
+    uses: JarrodCTaylor/build.ci/.github/workflows/doc-build.yml@master
     with:
       project: JarrodCTaylor/data.fressian
       mavenDep: org.clojure/data.fressian
