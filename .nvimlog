@@ -7,3 +7,4 @@ WARN  2023-08-03T13:59:55.064 88747 log_path_init:96: Failed to create directory
 WARN  2023-08-03T14:01:10.358 88858 log_path_init:96: Failed to create directory /Users/jarrodtaylor/.cache/nvim for writing logs: Unknown system error 1
 WARN  2023-08-07T19:57:54.182 69985 log_path_init:96: Failed to create directory /Users/jarrodtaylor/.cache/nvim for writing logs: Unknown system error 1
 WARN  2023-08-07T20:39:48.018 72792 log_path_init:96: Failed to create directory /Users/jarrodtaylor/.cache/nvim for writing logs: Unknown system error 1
+WARN  2023-08-08T11:14:25.463 91084 log_path_init:96: Failed to create directory /Users/jarrodtaylor/.cache/nvim for writing logs: Unknown system error 1
